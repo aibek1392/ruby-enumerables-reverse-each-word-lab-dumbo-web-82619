@@ -7,7 +7,7 @@ sqr.join(" ")
 end
 reverse_each_word("Hello how are you")
 
-
+ sqr.collect {|word| word.reverse!}
 
   
   

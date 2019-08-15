@@ -1,6 +1,8 @@
-def reverse_each_word("hello")
-  box = []
-  i = 0 
+def reverse_each_word(str)
+sqr = str.split
+puts sqr
+end
+
   
   
   
